@@ -23,6 +23,8 @@ data/
 │   │   │   │   ├── image/
 │   │   │   │   ├── label/
 │   │   │   └── val/
+│   │   │   │   ├── image/
+│   │   │   │   ├── label/
 │   │   ├── result/
 │   │   └── weight/
 └── [others]/
